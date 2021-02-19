@@ -16,7 +16,7 @@
 *
 * Description:
 * ============
-* This plugin countdawn from 1 minute, until more players are connected to the server and then restart it.
+* This plugin countdawn from 1 minute until more players are connected to the server and then restart it.
 *
 ******************************************************************
 
