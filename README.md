@@ -1,4 +1,4 @@
-<h1 align="center">Connect Countdown 1.0</h1>
+<h1 align="center">Connect Countdown v1.0</h1>
 
 <br />
 
