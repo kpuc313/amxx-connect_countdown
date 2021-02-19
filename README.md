@@ -1,4 +1,4 @@
-<h1 align="center">AFK Protection v2.0</h1>
+<h1 align="center">Connect Countdown 1.0</h1>
 
 <br />
 
